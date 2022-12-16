@@ -1,0 +1,23 @@
+.project_description{
+    width: 50%;
+    height:200px;
+    font-size:14pt;
+    margin-top: 3rem;
+    border-radius: 20px;
+    padding-left: 20px;
+    border: 2px solid gray;
+}
+
+.project_title{
+    margin: 0;
+    width: 50%;
+    height: 30px;
+    margin-top: 3rem;
+    border-radius: 20px;
+    padding-left: 20px;
+    border: 2px solid gray;
+    overflow: scroll;
+}
+.label-title{
+    margin-bottom: 0;
+}
